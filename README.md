@@ -1,4 +1,5 @@
--  My name is Tony and I'm a SWE student currently learning Python
+I'm a SWE student currently learning Python. 
+Help.
 
 
 <!---
