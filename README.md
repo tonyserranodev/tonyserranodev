@@ -1,5 +1,4 @@
-I'm a SWE student currently learning Python. 
-Help.
+I'm a SWE student studying Python, C# and Javascript
 
 
 <!---
