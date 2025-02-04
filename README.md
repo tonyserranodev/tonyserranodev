@@ -1,4 +1,4 @@
-I'm a SWE student currently learning studying Python, Java, and Javascript
+I'm a SWE student currently studying Python, Java, and Javascript
 
 
 <!---
